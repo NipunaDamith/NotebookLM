@@ -1,5 +1,6 @@
 ## Scenario 1 Results
 Input Sources: BUS5001-Wk06-Data
+
 Prompt 1: 
 -Generate 5 practice exam questions covering data storage models, database processing (OLTP vs OLAP), and cloud architectures.
               
