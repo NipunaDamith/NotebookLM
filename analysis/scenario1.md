@@ -5,7 +5,8 @@ Prompt 1:
 -Generate 5 practice exam questions covering data storage models, database processing (OLTP vs OLAP), and cloud architectures.
               
 Generated Outputs:
-Practice Exam Questions: Data Management and Cloud Platforms
+
+
 1.Database Processing: Differentiate between Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) based on their typical access patterns and primary users. Explain why organizations are usually reluctant to let business analysts run ad hoc analytic queries directly on an OLTP database.
 2.ACID Properties: List and briefly explain each of the four ACID properties (Atomicity, Consistency, Isolation, Durability) for transactions. Provide a practical example for one of these properties as described in the sources.
 3.Data Warehouses & ETL/ELT: Explain the primary purpose of a data warehouse within a company's data architecture. Describe the process of ETL (Extract, Transform, Load) in the context of populating a data warehouse, and briefly mention how this process has more recently evolved.
